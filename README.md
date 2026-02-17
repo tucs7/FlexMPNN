@@ -12,13 +12,13 @@ https://github.com/dauparas/ProteinMPNN
 
 # Usage
 
-To perform inference using pre-generated ensembles run
+To perform inference using pre-generated conformational ensembles run
 
 ```
   ./ensemble_inference.sh
 ```
 
-FRODAN pre-generated ensembles are provided in /simulation_trajectories_bechmarking_FRODAN, while Molecular Dynamics pre-generated ones 
+Pre-generated conformational ensembles obtained with FRODAN are provided in /simulation_trajectories_benchmarking_FRODAN. Pre-generated Molecular Dynamics ensembles are provided in /simulation_trajectories_benchmarking_MD.
 
 # Conformational ensemble generation using FRODAN
 
