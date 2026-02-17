@@ -28,4 +28,4 @@ To perform inference using pre-generated ensembles run
 
 ```
 
-* Note, FRODAN is not redistributed in this repository. Academic users may obtain it directly from the original developers (see manuscript Data Availability)
+* FRODAN is not redistributed in this repository due to third-party licensing restrictions. The software can be obtained directly from the original developers (Prof. Michael Thorpe; Michael.Thorpe@asu.edu).
