@@ -10,23 +10,16 @@ FlexMPNN is a framework for ensemble-conditioned inverse folding inference using
 https://github.com/dauparas/ProteinMPNN
 ```
 
+# Usage
 
-
-
-```
-  conda create -n fmira python=3.9
-
-  conda activate fmira
-
-  pip install dwave-system
-
-  python -m pip install scipy==1.11
-
-  python -m pip install numpy==1.21.6
-
-  pip install mxnet==1.9.0
+To perform inference using ensembles run
 
 ```
+  ./ensemble_inference.sh
+
+```
+
+
 
 # Data
 
