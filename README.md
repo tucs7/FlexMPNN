@@ -28,13 +28,4 @@ To perform inference using pre-generated ensembles run
 
 ```
 
-* Note, that to use FMIRA you need a D-Wave passcode that can be obtained at
-
-```
-https://cloud.dwavesys.com/leap/signup/
-```
-
-Add it in the part 'YOUR PASSCODE'
-
-```
-sampler = DWaveSampler(endpoint='https://cloud.dwavesys.com/sapi', token='YOUR PASSCODE', solver='Advantage_system4.1')
+* Note, FRODAN is not redistributed in this repository. Academic users may obtain it directly from the original developers (see manuscript Data Availability)
