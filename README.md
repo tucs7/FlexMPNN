@@ -28,4 +28,5 @@ Pre-generated conformational ensembles obtained with FRODAN are provided in /sim
   $FRODANHOME/bin/main options_fixedcons.xml
 ```
 
+* options_fixedcons.xml is provided in /Ensemble_generation
 * FRODAN is not redistributed in this repository due to third-party licensing restrictions. The software can be obtained directly from the original developers (Prof. Michael Thorpe; Michael.Thorpe@asu.edu).
