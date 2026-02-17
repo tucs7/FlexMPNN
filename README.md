@@ -18,7 +18,7 @@ To perform inference using pre-generated conformational ensembles run
   ./ensemble_inference.sh
 ```
 
-Pre-generated conformational ensembles obtained with FRODAN are provided in /simulation_trajectories_benchmarking_FRODAN. Pre-generated Molecular Dynamics ensembles are provided in /simulation_trajectories_benchmarking_MD.
+Pre-generated conformational ensembles obtained with FRODAN are provided in /simulation_trajectories_benchmarking_FRODAN. Corresponding Molecular Dynamics ensembles are available in /simulation_trajectories_benchmarking_MD.
 
 # Conformational ensemble generation using FRODAN
 
