@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
 	<modelfiles
-		pdb="8hgo_processed.pdb"
+		pdb="processed.pdb"
 		cov="cov.txt"
 		rigidunits="rc.txt"
 		atomtypes="atomtypes.txt"
