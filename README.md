@@ -18,6 +18,8 @@ To perform inference using pre-generated ensembles run
   ./ensemble_inference.sh
 ```
 
+FRODAN pre-generated ensembles are provided in /simulation_trajectories_bechmarking_FRODAN.
+
 # Conformational ensemble generation using FRODAN
 
 ```
