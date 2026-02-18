@@ -22,8 +22,21 @@ Pre-generated conformational ensembles produced using FRODAN are available in /s
 
 # Conformational ensemble generation using FRODAN
 
+Set FRODAN installation path
+
 ```
-  python $FRODANHOME/preprocess.py -i *.pdb -o options_fixedcons.xml
+ export FRODANHOME=/path/to/FRODAN
+```
+
+Run the preprocessing script to generate the necessary input files for a FRODAN simulation
+
+```
+  python $FRODANHOME/preprocess.py -i input_structure.pdb -o options_fixedcons.xml
+
+```
+
+Run FRODAN simulation
+```
 
   $FRODANHOME/bin/main options_fixedcons.xml
 ```
