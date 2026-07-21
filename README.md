@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1143733304.svg)](https://doi.org/10.5281/zenodo.21469274)
+
 # FlexMPNN 
 
 FlexMPNN is a framework for ensemble-conditioned inverse folding inference using conformational ensembles generated via rigidity-theory–based constrained geometric simulations
